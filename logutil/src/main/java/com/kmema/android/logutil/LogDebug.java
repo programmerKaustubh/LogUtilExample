@@ -9,5 +9,5 @@ public class LogDebug {
     public static void d(String message){
         Log.d(TAG, message);
     }
-
+    //My Sample Code here to create lib functions
 }
